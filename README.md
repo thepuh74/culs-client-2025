@@ -8,4 +8,10 @@ All the `*.md` files are part of the presentation.
 
 * Register
 * Follow @pepe and star this repo
-* Create project repository
+
+## Class project
+
+* Individual
+* Project repository
+* Simple HTML page with some CSS and JS 
+
